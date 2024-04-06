@@ -1,0 +1,23 @@
+#blog h2, h3, h4,{
+    text-align: center;
+    font: Arial Narrow serif;
+}
+
+#blog contenedor {
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: justify;
+}
+#blog articule{
+    margin: 100px;
+}
+#blog img {
+    width: 100%;
+    max-width: 290px;
+}
+#blog{
+    background:#A9D0F5;
+    color:#000;
+    text-align: center;
+    
